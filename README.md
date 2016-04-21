@@ -13,3 +13,7 @@ To avoid revealing your identity by accidentally typing the wrong command, it's 
 
 - `/anon help` -- Displays the help information
 - `/anon <message>` -- Sends a message
+
+## Sources
+
+Thanks to https://github.com/TargetProcess/slack-anonymous for the complete version that we use here to get this simpler version
